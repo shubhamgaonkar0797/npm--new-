@@ -1,6 +1,6 @@
 # CartForge
 
-A modern, industry-style e-commerce storefront UI — **frontend only**, no backend or database. Built with React + Vite.........( shubham bhai bolo )
+A modern, industry-style e-commerce storefront UI — **frontend only**, no backend or database. Built with React + Vite.........( shubham )
 
 ## Features
 
